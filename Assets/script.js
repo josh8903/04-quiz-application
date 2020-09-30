@@ -133,7 +133,6 @@ function q5w() {
     end()
 }
 
-
 // goto high scores
 function end() {
     localStorage.setItem("timeLeft", time);

@@ -30,15 +30,9 @@ function split() {
     var scorez = scores.split(",");
     var namez = names.split(",");
     for (var i = 0; i < namez.length; i++) {
-
-
         listEl.appendChild(document.createElement("li"));
         lineEl[i].appendChild(document.createElement("button"));
         buttonEl[i].className = "btn btn-primary btn-lg btn-block";
         buttonEl[i].textContent = namez[i] + " " + scorez[i];
-
-
     }
 }
-
-// wat
