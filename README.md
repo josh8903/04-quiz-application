@@ -6,6 +6,7 @@
 The prupose of this project was to create a coding quiz utilizing JavaScript. Upon clicking star quiz, the user will be presented with up to five consecutive questions as a timer counts down from 60 secons. Each wrong answer will deduct 10 seconds from the timer. If the timer reaches 0, or all questions are answered, the quiz is over. At this point, the user will be redirected to the high scores page where they can log their name and score. The score is equal to the amount of seconds remaining when all questions have been answered. 
 
 ## Deployed link
+https://josh8903.github.io/04-quiz-application
 
 ## Future development
 * Reverse name and score arrays so that new score is posted to top instead of bottom
@@ -15,4 +16,4 @@ The prupose of this project was to create a coding quiz utilizing JavaScript. Up
 * Add clear high scores button to high scores page
 * Add back to quiz button to high scores page
 
-## Josh Thorngren 
+#### Josh Thorngren 
